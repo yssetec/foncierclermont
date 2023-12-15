@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222.22 209">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: SegoeUI, 'Segoe UI';
+        font-size: 8px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1d1d1b;
+      }
+
+      .cls-3 {
+        fill: #f18512;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #fcbf0b;
+      }
+
+      .cls-5 {
+        fill: #0f8760;
+      }
+
+      .cls-14 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-15 {
+        opacity: .5;
+      }
+
+      .cls-6 {
+        fill: #93c353;
+      }
+
+      .cls-7 {
+        fill: #e52421;
+      }
+
+      .cls-8 {
+        fill: #00a879;
+      }
+
+      .cls-9 {
+        fill: #a9d08e;
+      }
+
+      .cls-10 {
+        fill: #70ad47;
+      }
+
+      .cls-11 {
+        fill: #e2efd9;
+      }
+
+      .cls-12 {
+        fill: #f28e7f;
+      }
+
+      .cls-13 {
+        fill: #a6a5a5;
+      }
+
+      .cls-2 {
+        font-family: SegoeUI-Bold, 'Segoe UI';
+        font-size: 10px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Calque_1" data-name="Calque 1">
+    <text class="cls-2" transform="translate(-.03 7.96)"><tspan x="0" y="0">Acquisition</tspan></text>
+    <text class="cls-1" transform="translate(17.53 22.03)"><tspan x="0" y="0">Prise de possession suite à une expropriation</tspan><tspan x="0" y="18.6">Prise de possession</tspan><tspan x="0" y="37.2">PUV signée</tspan><tspan x="0" y="55.8">PUV envoyée</tspan><tspan x="0" y="74.4">PUV à régier</tspan><tspan x="0" y="93">Négociation en cours</tspan><tspan x="0" y="111.6">Piquetage</tspan><tspan x="0" y="130.2">Négociation non débutée</tspan><tspan x="0" y="148.8">Procédure judiciaire</tspan><tspan x="0" y="167.4">SM</tspan><tspan class="cls-14" x="11.43" y="167.4">T</tspan><tspan x="15.25" y="167.4">C</tspan><tspan x="0" y="186">Autre</tspan></text>
+  </g>
+  <g id="Layer_2" data-name="Layer 2" class="cls-15">
+    <circle class="cls-11" cx="4.25" cy="112.18" r="4.23"/>
+    <circle class="cls-5" cx="4.25" cy="19.9" r="4.23"/>
+    <circle class="cls-8" cx="4.25" cy="38.35" r="4.23"/>
+    <circle class="cls-10" cx="4.25" cy="56.81" r="4.23"/>
+    <circle class="cls-6" cx="4.25" cy="75.27" r="4.23"/>
+    <circle class="cls-9" cx="4.25" cy="93.72" r="4.23"/>
+    <circle class="cls-12" cx="4.25" cy="130.64" r="4.23"/>
+    <circle class="cls-3" cx="4.25" cy="149.09" r="4.23"/>
+    <circle class="cls-7" cx="4.25" cy="167.55" r="4.23"/>
+    <circle class="cls-4" cx="4.25" cy="186.01" r="4.23"/>
+    <circle class="cls-13" cx="4.25" cy="204.47" r="4.23"/>
+  </g>
+</svg>
